@@ -1,2 +1,14 @@
 #left { text-align: left; }
 #right { text-align: right; }
+
+.p1 {
+    font-family: Georgia, serif;
+}
+  
+.p2 { 
+    font-family: "Lucida Handwriting", cursive;
+}
+  
+.p3 { 
+    font-family: Avantgarde, "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+}
